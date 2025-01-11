@@ -9,3 +9,6 @@ Le tableau de bord offre une analyse complète des données sur la criminalité.
 
 ![](TB_crime_2.png)
 *détail*
+
+![](TB_crime_3.png)
+*résumé*
